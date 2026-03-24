@@ -20,7 +20,7 @@ $user_name = $_SESSION['user_name'] ?? '';
 
 <div class="container">
     <div class="logo">
-        <h1>Holy Cross Colleges</h1>
+        <h1>Holy Cross Colleges Philippines</h1>
         <p style="color: #666; font-size: 14px;">Welcome</p>
     </div>
 
